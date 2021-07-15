@@ -3,9 +3,9 @@
     "path": "C:/Users/SARA/Desktop/UCR/Procesamiento_de_datos_geograficos/Rstudio/leccion_10.2/junco_vulcani-cr-dashboard/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "1156864802",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1626367762698.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "56,17",
-        "scrollLine": "45"
+        "cursorPosition": "127,20",
+        "scrollLine": "118"
     },
     "folds": "",
-    "lastKnownWriteTime": 1626368584,
+    "lastKnownWriteTime": 1626369707,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1626368584123,
+    "last_content_update": 1626369797109,
     "read_only": false,
     "read_only_alternatives": []
 }
